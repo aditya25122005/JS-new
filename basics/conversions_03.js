@@ -22,4 +22,3 @@ console.log(booleanIsLoggedIn);
 // null => false
 // undefined=>false
 // "aditya" =>true
-console.log(typeof booleanIsLoggedIn)
