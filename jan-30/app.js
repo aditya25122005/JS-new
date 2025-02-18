@@ -72,3 +72,4 @@
 // }
 // let p1= new sam("abc");
 // let p2= new sam("def");
+// Just for random commit
